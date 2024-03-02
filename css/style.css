@@ -84,10 +84,10 @@ img {
 #header div ul.navigation li a {
 	text-decoration :none;
 	padding :0 30px;
-	color :#ebe9d7;
+	color :#ffffff;
 	font-family :'Lobster1.4Regular';
 	font-size :16px;
-	color :#94c4c7;
+	color :#c8dfe1;
 	font-size :21px;
 }
 #header div ul.navigation li a:hover {
@@ -112,7 +112,7 @@ img {
 #body .featured h2 {
 	font-family :'Lobster1.4Regular';
 	font-size :36px;
-	color :#1b6568;
+	color :#207AA4;
 	display :block;
 	font-weight :normal;
 }
@@ -174,7 +174,7 @@ img {
 #body #content div div h1 {
 	font-family :'Lobster1.4Regular';
 	font-size :36px;
-	color :#1b6568;
+	color :#207AA4;
 	font-weight :normal;
 	margin-bottom :50px;
 }
@@ -317,7 +317,7 @@ img {
 #body .content div div h1 {
 	font-family :'Lobster1.4Regular';
 	font-size :36px;
-	color :#1b6568;
+	color :#207AA4;
 	font-weight :normal;
 }
 #body .content div div ul {
@@ -395,7 +395,7 @@ img {
 	padding-top :30px;
 }
 #body .sidebar h1 {
-	color :#1b6568;
+	color :#207AA4;
 	font-family :'Lobster1.4Regular';
 	font-size :36px;
 	font-weight :normal;
@@ -437,12 +437,12 @@ img {
 	font-weight :normal;
 }
 #body .sidebar ul.navigation li a:hover {
-	color :#1b6568;
+	color :#207AA4;
 	font-size :32px;
 	font-family :'LimelightRegular';
 }
 #body .sidebar ul.navigation li a.active {
-	color :#1b6568;
+	color :#207AA4;
 	font-size :32px;
 	font-family :'LimelightRegular';
 }
@@ -495,7 +495,7 @@ img {
 #body .sidebar ul li a:hover {
 	font-family :'NunitoRegular';
 	text-decoration :none;
-	color :#1B6568;
+	color :#207AA4;
 	font-size :16px;
 }
 #body .sidebar ul {
@@ -540,7 +540,7 @@ img {
 }
 #body div#section div.section div div h2 {
 	font-family :'LimelightRegular';
-	color :#1b6568;
+	color :#207AA4;
 	font-size :28px;
 	font-weight :normal;
 	margin :0;
@@ -557,7 +557,7 @@ img {
 	line-height :30px;
 }
 #body div#section div.section div div h2 a:hover {
-	color :#1b6568;
+	color :#207AA4;
 	text-decoration :none;
 }
 #body div#section div.section div div h3 {
@@ -624,7 +624,7 @@ img {
 	background :transparent url("../images/bg-footer.jpg");
 	background-repeat :repeat-x;
 	background-position :top;
-	background-color :#1b6568;
+	background-color :#207AA4;
 }
 #footer div {
 	width :960px;
@@ -687,32 +687,23 @@ img {
 	margin :0 5px;
 	padding :0;
 }
-#footer div ul li ul li a.facebook {
+#footer div ul li ul li a.instagram {
 	background :transparent url("../images/icon.png") no-repeat 0 -228px;
 	float :left;
 	height :39px;
 	width :39px;
 }
-#footer div ul li ul li a.facebook:hover {
+#footer div ul li ul li a.instagram:hover {
 	background :transparent url("../images/icon.png") no-repeat 0 -139px;
 }
-#footer div ul li ul li a.twitter {
+#footer div ul li ul li a.whatsapp {
 	background :transparent url("../images/icon.png") no-repeat 0 -584px;
 	float :left;
 	height :39px;
 	width :39px;
 }
-#footer div ul li ul li a.twitter:hover {
+#footer div ul li ul li a.whatsapp:hover {
 	background :transparent url("../images/icon.png") no-repeat 0 -495px;
-}
-#footer div ul li ul li a.googleplus {
-	background :transparent url("../images/icon.png") no-repeat 0 -406px;
-	float :left;
-	height :39px;
-	width :92px;
-}
-#footer div ul li ul li a.googleplus:hover {
-	background :transparent url("../images/icon.png") no-repeat 0 -317px;
 }
 #footer div ul li input[type="submit"] {
 	background :transparent url("../images/button.png") no-repeat 0 -278px;
