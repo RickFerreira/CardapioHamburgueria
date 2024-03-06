@@ -88,7 +88,7 @@ img {
 	font-family :'Lobster1.4Regular';
 	font-size :16px;
 	color :#c8dfe1;
-	font-size :21px;
+	font-size :22px;
 }
 #header div ul.navigation li a:hover {
 	color :#ebe9d7;
@@ -111,14 +111,14 @@ img {
 }
 #body .featured h2 {
 	font-family :'Lobster1.4Regular';
-	font-size :36px;
+	font-size :38px;
 	color :#207AA4;
 	display :block;
 	font-weight :normal;
 }
 #body .featured p {
 	font-family :'NunitoRegular';
-	font-size :16px;
+	font-size :18px;
 	color :#4c1407;
 }
 #body .featured p a {
